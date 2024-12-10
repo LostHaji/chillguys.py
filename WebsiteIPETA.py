@@ -91,7 +91,7 @@ st.markdown(
 
 
 subjects = {
-    "Sciences": {
+    "Science": {
         "description": "This section focuses on the definition, explanation, and effects of Electromagnetic Radiation to the Environment.",
         "topics": {
             "Advanced Chem": "https://drive.google.com/drive/folders/1w3aD8Iw3USx2SsaSEl3xEBYCeTsgrEtp?usp=sharing",
